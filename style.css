@@ -1,5 +1,10 @@
 .contaier{
+    text-align: center;
     display: flex;
     flex-direction: column;
     max-width: 600px;
+    border-style: solid;
+    padding: 0.5rem;
+    margin: auto;
+    background-color: beige;
   }
